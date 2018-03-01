@@ -14,7 +14,7 @@ public class main {
 		
 		System.out.println(Orc1.getHight());
 		
-		
+		System.out.println("test");
 		
 	}
 	
